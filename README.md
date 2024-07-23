@@ -52,12 +52,6 @@
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="80" height="80"/></td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="80" height="80"/></td>
   </tr>
-  <tr>
-    <td align="center"><img src="https://www.google.com/imgres?q=prisma%20image%20for%20github%20skills&imgurl=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F42410405%3Fs%3D280%26v%3D4&imgrefurl=https%3A%2F%2Fgithub.com%2Fprismagraphql&docid=U_toziy4QtBUXM&tbnid=q8XD60PTxp3sYM&vet=12ahUKEwjAzJ_qqL2HAxX2ZWwGHbFwDKsQM3oECGQQAA..i&w=256&h=256&hcb=2&ved=2ahUKEwjAzJ_qqL2HAxX2ZWwGHbFwDKsQM3oECGQQAA" alt="Prisma" width="80" height="80"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="80" height="80"/></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="80" height="80"/></td>
-  </tr>
 </table>
 
 
