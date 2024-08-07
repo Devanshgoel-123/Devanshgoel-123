@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devanshgoel-123" alt="devanshgoel-123" /></a> </p>
 
-- 🌱 I’m currently learning **Learning about Nft's**
+- 🌱 I’m currently learning **Learning about Rust,WebSockets,Blockchains**
 
 - 💬 Ask me about **Frontend, Backend and web3**
 
