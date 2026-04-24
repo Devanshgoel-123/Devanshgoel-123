@@ -10,13 +10,29 @@ I build low-latency systems, trading engines, and on-chain protocols — from li
 
 ## Tech Stack
 
-**Languages** — Go · C++ · Rust · TypeScript · Python · Solidity · Cairo
+**Languages:**  
+C++, Go, TypeScript, Python, Rust, Solidity, Cairo  
 
-**Backend** — NestJS · FastAPI · WebSockets · GraphQL
+**Backend & Systems:**  
+Node.js, NestJS, FastAPI, GraphQL, WebSockets  
 
-**Blockchain** — Foundry · Starknet · Wagmi · Viem
+**Blockchain:**  
+Solidity, Foundry, Hardhat, Starknet, Wagmi, Viem  
 
-**AI / Data** — LangChain · LangGraph · RAG · PostgreSQL · Redis
+**AI & Agents:**  
+LangChain, LangGraph, RAG Pipelines, MCP Protocol  
+
+**Quant & Trading:**  
+Freqtrade, Hummingbot, Algorithmic Trading, Strategy Backtesting  
+
+**Databases & ORMs:**  
+PostgreSQL, Redis, MongoDB, GORM, Prisma, Drizzle, TypeORM  
+
+**Frontend:**  
+React, Next.js, Zustand, Jotai, TanStack Query  
+
+**Tools & Infra:**  
+AWS, Docker, Git  
 
 ---
 
