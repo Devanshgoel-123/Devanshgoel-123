@@ -8,17 +8,6 @@ I build low-latency systems, trading engines, and on-chain protocols — from li
 
 ---
 
-## Impact by Numbers
-
-| Metric | Result |
-|---|---|
-| Liquidation latency | Cut 33% — 18s → 12s |
-| Swap volume growth | +10% via cross-chain infra |
-| Delta-neutral APY | ~15% annualized |
-| Protocol Labs PRs | 15+ merged |
-
-
-
 ## Tech Stack
 
 **Languages** — Go · C++ · Rust · TypeScript · Python · Solidity · Cairo
