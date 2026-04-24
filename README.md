@@ -1,86 +1,44 @@
-<h1 align="center">Devansh Goel</h1>
-<p align="center">
-  Backend Engineer • DeFi Systems • Trading Infrastructure
-</p>
+# Devansh Goel
 
-<p align="center">
-  Building low-latency systems, trading engines, and on-chain protocols
-</p>
+**Backend Engineer · DeFi · Trading Infrastructure**
 
----
+I build low-latency systems, trading engines, and on-chain protocols — from liquidation engines and perps infra to AI execution agents and cross-chain swap systems.
 
-## 🚀 About Me
-
-* Backend-focused engineer working on **DeFi, trading systems, and scalable infra**
-* Experience across **perps, cross-chain swaps, liquidation engines, and AI agents**
-* Strong interest in **system design, latency optimization, and financial primitives**
+📧 devanshgoel112233@gmail.com · [𝕏 @0xgoel](https://x.com/0xgoel) · [LinkedIn](https://www.linkedin.com/in/devansh-goel-085504201/)
 
 ---
 
-## 🧠 Experience Highlights
+## Impact by Numbers
 
-* Reduced liquidation latency from **18s → 12s** by optimizing backend execution
-* Built cross-chain swap infra increasing **volume (~10%) and TVL (~5%)**
-* Developed **AI execution agent** using LLMs for trade optimization
-* Designed delta-neutral strategies generating **~15% APY**
-* Contributed to **Protocol Labs ecosystem (15+ PRs)**
+| Metric | Result |
+|---|---|
+| Liquidation latency | Cut 33% — 18s → 12s |
+| Swap volume growth | +10% via cross-chain infra |
+| Delta-neutral APY | ~15% annualized |
+| Protocol Labs PRs | 15+ merged |
 
----
 
-## 🛠 Tech Stack
 
-**Languages**
-C++ • Go • TypeScript • Python • Rust • Solidity • Cairo
+## Tech Stack
 
-**Backend & Systems**
-Node.js • NestJS • FastAPI • WebSockets • GraphQL
+**Languages** — Go · C++ · Rust · TypeScript · Python · Solidity · Cairo
 
-**Blockchain**
-Solidity • Foundry • Starknet • Wagmi • Viem
+**Backend** — NestJS · FastAPI · WebSockets · GraphQL
 
-**AI / Agents**
-LangChain • LangGraph • OpenAI APIs • RAG
+**Blockchain** — Foundry · Starknet · Wagmi · Viem
 
-**Databases**
-PostgreSQL • Redis • MongoDB
-
-**Infra**
-AWS • Docker
+**AI / Data** — LangChain · LangGraph · RAG · PostgreSQL · Redis
 
 ---
 
-## 🏗 What I'm Building
+## Recognition
 
-* DeFi trading systems (perps, vault strategies, execution engines)
-* Low-latency backend infra
-* AI agents for financial automation
-
----
-
-## 🏆 Achievements
-
-* Starknet Hacker Games — **1st place (Agentic Track)**
-* Aptos Hackathon — Built trading bot, won **$2000**
-* Protocol Labs Fellow — top cohort, consistent 5/5 impact
+| Award | Event | Detail |
+|---|---|---|
+| 1st Place | Starknet Hacker Games | Agentic track winner |
+| $2,000 Prize | Aptos Hackathon | Trading bot, top finish |
+| 5/5 Impact | Protocol Labs Fellow | Top cohort, 15+ PRs merged |
 
 ---
 
-## 📌 Current Focus
-
-* AI Agents × Blockchain
-* High-performance backend in Go
-* Advanced system design
-
----
-
-## 📫 Connect
-
-* Twitter: https://x.com/0xgoel
-* LinkedIn: https://www.linkedin.com/in/devansh-goel-085504201/
-* Email: [devanshgoel112233@gmail.com](mailto:devanshgoel112233@gmail.com)
-
----
-
-<p align="center">
-  <i>Open to backend / DeFi / systems roles globally</i>
-</p>
+> Open to backend · DeFi · systems roles globally
