@@ -4,7 +4,7 @@
 
 I build low-latency systems, trading engines, and on-chain protocols — from liquidation engines and perps infra to AI execution agents and cross-chain swap systems.
 
-📧 devanshgoel112233@gmail.com · [𝕏 @0xgoel](https://x.com/0xgoel) · [LinkedIn](https://www.linkedin.com/in/devansh-goel-085504201/)
+📧 devanshgoel.dev@gmail.com · [𝕏 @0xgoel](https://x.com/0xgoel) · [LinkedIn](https://www.linkedin.com/in/devansh-goel-085504201/)
 
 ---
 
