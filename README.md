@@ -107,7 +107,7 @@ I build **low-latency backend systems, trading engines, and on-chain protocols**
 | Project | What it does | Stack |
 |---|---|---|
 | 🏆 **[zkBob: Starknet AI agent](https://github.com/Devanshgoel-123/StarknetHackerGames)**<br/>[backend](https://github.com/Devanshgoel-123/HackerGames_backend) · [demo](https://starknet-hacker-games.vercel.app) | **1st place, Starknet Hacker Games (Agentic track).** Chat to swap, farm yield, rebalance, and trade autonomously on Starknet. | LangGraph · Claude · Express · Prisma · Next.js |
-| **[Sentenex](https://github.com/Devanshgoel-123/AptosHack)** | AI trading agent that combines GPT-4o sentiment with market and on-chain data, then auto-trades perps on Kana (Aptos) | FastAPI · Express · React · Aptos |
+| 🏆 **[Sentenex](https://github.com/Devanshgoel-123/AptosHack)** | **Won $2,000 at the Aptos Hackathon.** AI trading agent that combines GPT-4o sentiment with market and on-chain data, then auto-trades perps on Kana (Aptos) | FastAPI · Express · React · Aptos |
 | **[NeoFlo](https://github.com/Devanshgoel-123/NeoFlo)** | Privacy-first browser activity agent: an MV3 extension and a Go API that capture structured events into Postgres for AI analysis | Go · Chrome MV3 · PostgreSQL |
 | **[Ledgerline](https://github.com/Devanshgoel-123/ExpensesAnalysis)** | UPI expense tracker built from bank statements and Gmail alerts, with auto-categorisation, reconciliation, and Telegram briefings | Next.js · Express · Drizzle · PostgreSQL |
 | **[Pooka Finance agent](https://github.com/Devanshgoel-123/AgenticBackendPooka)** | Natural-language agent for cross-chain perpetuals: open, close, deposit, and withdraw by chat, with Socket.IO execution | ElizaOS · Claude · Socket.IO · PostgreSQL |
@@ -132,6 +132,8 @@ I build **low-latency backend systems, trading engines, and on-chain protocols**
 
 ### 🌐 Open source
 
+💸 **Earned $5,000+ from open-source contributions.**
+
 - **[IPFS-Solana-SDK](https://github.com/seetadev/IPFS-Solana-SDK)**: pay-as-you-go decentralised storage for Solana via Storacha (Protocol Labs fellowship)
 - **DefiLlama**: TVL and volume adapters ([adapters](https://github.com/Devanshgoel-123/DefiLlama-Adapters-1), [dimension-adapters](https://github.com/Devanshgoel-123/dimension-adapters))
 
@@ -141,8 +143,9 @@ I build **low-latency backend systems, trading engines, and on-chain protocols**
 
 | Award | Event | Detail |
 |---|---|---|
-| 🥇 1st Place | Starknet Hacker Games | Agentic track winner |
-| 💰 $2,000 Prize | Aptos Hackathon | Trading bot, top finish |
+| 🥇 1st Place | Starknet Hacker Games | [zkBob](https://github.com/Devanshgoel-123/StarknetHackerGames), agentic track winner |
+| 💰 $2,000 Prize | Aptos Hackathon | [Sentenex](https://github.com/Devanshgoel-123/AptosHack), AI sentiment trading agent |
+| 💸 $5,000+ earned | Open-source contributions | Paid open-source work |
 | ⭐ 5/5 Impact | Protocol Labs Fellow | Top cohort, 15+ PRs merged |
 
 ---
