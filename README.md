@@ -3,13 +3,14 @@
 # Hi, I'm Devansh Goel 👋
 
 <a href="https://github.com/Devanshgoel-123">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=640&lines=Backend+Engineer+%C2%B7+DeFi+%C2%B7+Trading+Infrastructure;Low-latency+systems+and+on-chain+protocols;AI+agents+that+execute+on-chain" alt="Backend Engineer · DeFi · Trading Infrastructure" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=640&lines=Founding+Engineer+%40+TenetX.ai;Backend+%26+AI+Engineer+%C2%B7+Distributed+Systems;DeFi+%C2%B7+Trading+Infrastructure+%C2%B7+AI+Agents" alt="Founding Engineer @ TenetX.ai · Backend & AI Engineer" />
 </a>
 
 <p>
   <a href="mailto:devanshgoel.dev@gmail.com"><img src="https://img.shields.io/badge/Email-devanshgoel.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/devansh-goel-085504201/"><img src="https://img.shields.io/badge/LinkedIn-Devansh%20Goel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/0xgoel"><img src="https://img.shields.io/badge/X-@0xgoel-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="./Devansh_Goel_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-2F81F7?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" /></a>
 </p>
 
 </div>
@@ -18,13 +19,27 @@
 
 ## About me
 
-I build **low-latency backend systems, trading engines, and on-chain protocols**: liquidation engines, perps infrastructure, AI execution agents, and cross-chain swap systems.
+I'm a **backend and AI engineer** working on **distributed systems, trading infrastructure, and AI agents**: liquidation engines, delta-neutral yield strategies, market-making engines, and agents that execute on-chain.
 
-- 🏦 **Backend Engineer at [Troves](https://troves.fi)**: automated DeFi strategy engines on Starknet
-- ⚡ Previously **Full-stack at Logx** · **Web3 at Eddy Finance** · **Web3 at Raize Club**
-- 🎓 Electrical & Electronics Engineering, **BITS Pilani** ('26)
+- 🛡️ **Founding Engineer at [TenetX.ai](https://tenetx.ai)**: AI security and governance
+- ⚡ Previously **Backend at Troves** · **Backend at LogX** · **Full Stack at Eddy Finance** · **Web3 at Raize Club**
+- 🎓 Electrical & Electronics Engineering, **BITS Pilani** (2022 – 2026)
+- 🧑‍🔬 **Protocol Labs Fellow**: Cohorts 3 & 4 (top 10%)
 - ✍️ Figuring out AI, startups & building products, and [writing what I learn](https://x.com/0xgoel)
 - 🤝 **Open to backend · DeFi · systems roles globally**
+
+---
+
+## 💼 Experience
+
+| Role | Company | Period | Highlights |
+|---|---|---|---|
+| **Founding Engineer** | [TenetX.ai](https://tenetx.ai) | Aug 2026 – Present | AI security and governance platform |
+| **Backend Engineer** | [Troves](https://troves.fi) | Oct 2025 – Aug 2026 | Delta-neutral yield strategy (Vesu + Extended perps, ~15% APY) · non-custodial DCA vault ($25K+ TVL) · real-time rebalancing and risk engine |
+| **Backend Engineer** | LogX | Jul 2025 – Sep 2025 | Liquidation engine 33% faster (18s → 12s) · oracle surveillance that prevented ~$40K in losses · automated market-making engine |
+| **Full Stack Engineer** | Eddy Finance | Oct 2024 – Jun 2025 | DeFi platform with 1.3M+ wallets · API latency −40% · rewards engine for a $200K campaign · AI voice trading assistant |
+
+<p align="center"><a href="./Devansh_Goel_Resume.pdf"><b>📄 Full resume (PDF)</b></a></p>
 
 ---
 
@@ -41,7 +56,7 @@ I build **low-latency backend systems, trading engines, and on-chain protocols**
 **Backend & systems**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,graphql&perline=12" alt="Node.js, NestJS, Express, FastAPI, GraphQL" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,django,spring,graphql&perline=12" alt="Node.js, NestJS, Express, FastAPI, Django, Spring Boot, GraphQL" />
   <br/>
   <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets" />
 </p>
@@ -97,7 +112,9 @@ I build **low-latency backend systems, trading engines, and on-chain protocols**
 **Tools & infra**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,linux,vercel&perline=12" alt="AWS, Docker, Git, Linux, Vercel" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,vercel,jest&perline=12" alt="AWS, Docker, Kubernetes, Linux, Git, Vercel, Jest" />
+  <br/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
 </p>
 
 ---
@@ -143,10 +160,10 @@ I build **low-latency backend systems, trading engines, and on-chain protocols**
 
 | Award | Event | Detail |
 |---|---|---|
-| 🥇 1st Place | Starknet Hacker Games | [zkBob](https://github.com/Devanshgoel-123/StarknetHackerGames), agentic track winner |
+| 🥇 1st Place · $1,000 | Starknet Hacker Games | [zkBob](https://github.com/Devanshgoel-123/StarknetHackerGames), Agentic AI track |
 | 💰 $2,000 Prize | Aptos Hackathon | [Sentenex](https://github.com/Devanshgoel-123/AptosHack), AI sentiment trading agent |
 | 💸 $5,000+ earned | Open-source contributions | Paid open-source work |
-| ⭐ 5/5 Impact | Protocol Labs Fellow | Top cohort, 15+ PRs merged |
+| ⭐ 5/5 Impact | Protocol Labs Fellowship | Cohorts 3 & 4 (top 10%), 15+ production PRs |
 
 ---
 
@@ -174,6 +191,6 @@ I build **low-latency backend systems, trading engines, and on-chain protocols**
 
 <div align="center">
 
-**Building something in DeFi, trading infra, or agents? Let's talk:** [devanshgoel.dev@gmail.com](mailto:devanshgoel.dev@gmail.com)
+**Building something in AI, DeFi, or trading infra? Let's talk:** [devanshgoel.dev@gmail.com](mailto:devanshgoel.dev@gmail.com)
 
 </div>
