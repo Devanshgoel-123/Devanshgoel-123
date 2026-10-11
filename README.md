@@ -167,28 +167,6 @@ I'm a **backend and AI engineer** working on **distributed systems, trading infr
 
 ---
 
-## 📊 GitHub stats
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Devanshgoel-123&v=20261011&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0d1117&disable_animations=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Devanshgoel-123&v=20261011&show_icons=true&count_private=true&hide_border=true&theme=default&disable_animations=true" alt="GitHub stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshgoel-123&v=20261011&layout=compact&langs_count=8&hide_border=true&theme=github_dark&bg_color=0d1117&hide=html,css,scss&disable_animations=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshgoel-123&v=20261011&layout=compact&langs_count=8&hide_border=true&theme=default&hide=html,css,scss&disable_animations=true" alt="Top languages" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Devanshgoel-123&v=20261011&hide_border=true&theme=github-dark-blue&background=0d1117" />
-  <img src="https://streak-stats.demolab.com?user=Devanshgoel-123&v=20261011&hide_border=true&theme=default" alt="GitHub streak" />
-</picture>
-
-</div>
-
----
-
 <div align="center">
 
 **Building something in AI, DeFi, or trading infra? Let's talk:** [devanshgoel.dev@gmail.com](mailto:devanshgoel.dev@gmail.com)
