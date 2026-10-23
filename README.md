@@ -21,12 +21,12 @@
 
 I'm a **backend and AI engineer** working on **distributed systems, trading infrastructure, and AI agents**: liquidation engines, delta-neutral yield strategies, market-making engines, and agents that execute on-chain.
 
-- 🛡️ **Founding Engineer at [TenetX.ai](https://tenetx.ai)**: AI security and governance
-- ⚡ Previously **Backend at Troves** · **Backend at LogX** · **Full Stack at Eddy Finance** · **Web3 at Raize Club**
-- 🎓 Electrical & Electronics Engineering, **BITS Pilani** (2022 – 2026)
-- 🧑‍🔬 **Protocol Labs Fellow**: Cohorts 3 & 4 (top 10%)
-- ✍️ Figuring out AI, startups & building products, and [writing what I learn](https://x.com/0xgoel)
-- 🤝 **Open to backend · DeFi · systems roles globally**
+- **Founding Engineer at [TenetX.ai](https://tenetx.ai)**: AI security and governance
+- Previously **Backend at Troves** · **Backend at LogX** · **Full Stack at Eddy Finance** · **Web3 at Raize Club**
+- Electrical & Electronics Engineering, **BITS Pilani** (2022 – 2026)
+- **Protocol Labs Fellow**: Cohorts 3, 4, 5 and 6 (top 10%)
+- Figuring out AI, startups & building products, and [writing what I learn](https://x.com/0xgoel)
+- **Open to backend · DeFi · systems roles globally**
 
 ---
 
@@ -161,8 +161,7 @@ A free, open-source UPI expense tracker that reads Indian bank statements and Gm
 💸 **Earned $5,000+ from open-source contributions.**
 
 - **[IPFS-Solana-SDK](https://github.com/seetadev/IPFS-Solana-SDK)**: pay-as-you-go decentralised storage for Solana via Storacha (Protocol Labs fellowship)
-- **DefiLlama**: TVL and volume adapters ([adapters](https://github.com/Devanshgoel-123/DefiLlama-Adapters-1), [dimension-adapters](https://github.com/Devanshgoel-123/dimension-adapters))
-
+  
 ---
 
 ## 🏅 Recognition
@@ -171,7 +170,7 @@ A free, open-source UPI expense tracker that reads Indian bank statements and Gm
 |---|---|---|
 | 🥇 1st Place · $1,000 | Starknet Hacker Games | [zkBob](https://github.com/Devanshgoel-123/StarknetHackerGames), Agentic AI track |
 | 💰 $2,000 Prize | Aptos Hackathon | [Sentenex](https://github.com/Devanshgoel-123/AptosHack), AI sentiment trading agent |
-| 💸 $5,000+ earned | Open-source contributions | Paid open-source work |
+| 💸 $8,000+ earned | Open-source contributions | Paid open-source work |
 | ⭐ 5/5 Impact | Protocol Labs Fellowship | Cohorts 3 & 4 (top 10%), 15+ production PRs |
 
 ---
