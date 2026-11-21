@@ -11,7 +11,7 @@ Early engineer at [TenetX.ai](https://tenetx.ai) (AI security). On the side I'm 
 
 An open-source macOS app (Rust + Tauri) that shows what's filling your disk, from `node_modules` and Docker cache to Xcode data and Rust `target/` folders, and labels each one **Likely safe** or **Review first** before anything gets deleted.
 
-**39 ★ · 960+ downloads · signed and notarized by Apple** · `brew install --cask devanshgoel-123/tap/diskpilot`
+**39 ★ · 480+ downloads · signed and notarized by Apple** · `brew install --cask devanshgoel-123/tap/diskpilot`
 
 <a href="https://github.com/Devanshgoel-123/diskpilot"><img src="https://raw.githubusercontent.com/Devanshgoel-123/diskpilot/main/docs/images/diskpilot-tour.gif" alt="20-second tour of DiskPilot: overview, cleanup review, duplicates" width="720"></a>
 
