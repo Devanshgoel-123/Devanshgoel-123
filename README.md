@@ -1,4 +1,4 @@
-### Hey, I'm Devansh 👋
+## Hey, I'm Devansh 👋
 
 I build backends where a bug costs real money: trading engines, on-chain vaults, and AI agents that act on their own.
 Early engineer at [TenetX.ai](https://tenetx.ai) (AI security). On the side I'm building **[DiskPilot](https://github.com/Devanshgoel-123/diskpilot)** in public and writing up what breaks along the way.
@@ -32,12 +32,12 @@ Build logs, real numbers, and the mistakes I made getting there. **[Subscribe on
 
 ### 💼 Where I've worked
 
-| | |
+| Company | What I did |
 |---|---|
-| **[TenetX.ai](https://tenetx.ai)** · early engineer · 2026– | Tracking every tool call AI coding agents make, across 7 agents and 761 tool–IDE combinations |
+| **[TenetX.ai](https://tenetx.ai)** · early engineer · now | Tracking every tool call AI coding agents make, across 7 agents and 761 tool–IDE combinations |
 | **[Troves.fi](https://troves.fi)** · backend · 2025–26 | Delta-neutral yield strategy (~15% APY) and a non-custodial DCA vault ($25K+ TVL) on Starknet |
 | **LogX** · backend · 2025 | Liquidations 33% faster (18s → 12s); oracle surveillance that caught ~$40K of bad prices |
-| **Eddy Finance** · full stack · 2024–25 | DeFi app for 1.3M+ wallets; API latency down 40%; rewards engine for a $200K campaign |
+| **Eddy Finance** · full stack · 2024 | DeFi app for 1.3M+ wallets; API latency down 40%; rewards engine for a $200K campaign |
 
 ### 🧪 Other things I've shipped
 
